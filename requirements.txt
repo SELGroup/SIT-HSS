@@ -1,0 +1,9 @@
+Pillow
+opencv-python
+pandas
+matplotlib
+torch
+torch-scatter
+numpy
+scipy
+scikit-image
